@@ -1,0 +1,1 @@
+module.exports.topicName = process.env.TOPIC_NAME;
