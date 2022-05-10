@@ -34,7 +34,7 @@ Get this a postman collection example to test it!
 Check this repository on GCP Cloud Run container🐳
 
 
-    https://fcamara-teste-si2b2r4y6a-rj.a.run.app/
+    https://pubsub-tutorial-mezvxcwvya-rj.a.run.app
 
 ### Obs.
 This repository was made strongly based in GCP Tutorials from Google (check the docs at https://cloud.google.com/run/docs/tutorials/pubsub)
